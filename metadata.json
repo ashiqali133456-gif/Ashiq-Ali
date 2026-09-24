@@ -1,0 +1,8 @@
+{
+  "name": "Jina Polytechnic College",
+  "description": "Official website and secure administration portal for Jina Polytechnic College (Since 1995).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

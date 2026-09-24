@@ -1,0 +1,1644 @@
+{
+  "adminConfig": {
+    "id": "global_admin_config",
+    "admin_user_id": "usr-admin-00",
+    "admin_google_sub": "google-sub-ashiqali133456",
+    "admin_email": "ashiqali133456@gmail.com",
+    "admin_name": "Ashiq Ali (Super Administrator)",
+    "admin_claimed_at": "1995-09-01T00:00:00.000Z",
+    "is_claimed": true
+  },
+  "users": [
+    {
+      "id": "usr-admin-00",
+      "email": "ashiqali133456@gmail.com",
+      "name": "Super Administrator",
+      "role": "SUPER_ADMIN",
+      "status": "Active",
+      "isTwoFactorEnabled": false,
+      "twoFactorPin": "199500",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZekWGhtC7UUFWGTSo.Qny4.m0G5FM9RqS"
+    },
+    {
+      "id": "usr-admin-01",
+      "email": "superadmin@jpc.edu.pk",
+      "name": "Super Administrator",
+      "role": "SUPER_ADMIN",
+      "status": "Active",
+      "isTwoFactorEnabled": false,
+      "twoFactorPin": "199500",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZekWGhtC7UUFWGTSo.Qny4.m0G5FM9RqS"
+    },
+    {
+      "id": "usr-tea-01",
+      "email": "engr.tariq@jinnahpolytechnic.edu.pk",
+      "name": "Engr. Tariq Jamil",
+      "role": "TEACHER",
+      "employeeId": "EMP-CIV-01",
+      "department": "Civil Engineering Technology",
+      "status": "Active",
+      "createdAt": "2024-01-10T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZex5yVRwx3MnKCqupmLTe5kbQ9x9Xig9y"
+    },
+    {
+      "id": "usr-tea-02",
+      "email": "engr.kamran@jinnahpolytechnic.edu.pk",
+      "name": "Engr. Kamran Asghar",
+      "role": "TEACHER",
+      "employeeId": "EMP-ELE-02",
+      "department": "Electrical Engineering Technology",
+      "status": "Active",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZex5yVRwx3MnKCqupmLTe5kbQ9x9Xig9y"
+    },
+    {
+      "id": "usr-stu-01",
+      "email": "student.ali@jinnahpolytechnic.edu.pk",
+      "name": "Ali Raza",
+      "role": "STUDENT",
+      "rollNumber": "JPC-2024-CIV-101",
+      "department": "Civil Engineering Technology",
+      "status": "Active",
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZejdzYfnuY9yZ66WnDpTztSr1S65Z8fw."
+    },
+    {
+      "id": "usr-stu-02",
+      "email": "student.hamza@jinnahpolytechnic.edu.pk",
+      "name": "Hamza Bilal",
+      "role": "STUDENT",
+      "rollNumber": "JPC-2024-ELE-202",
+      "department": "Electrical Engineering Technology",
+      "status": "Active",
+      "createdAt": "2024-02-01T00:00:00.000Z",
+      "passwordHash": "$2b$10$4fh79Rw7EFWCecHCz.qzZejdzYfnuY9yZ66WnDpTztSr1S65Z8fw."
+    }
+  ],
+  "settings": {
+    "collegeName": "JINNAH POLYTECHNIC COLLEGE",
+    "shortName": "JPC",
+    "urduName": "جناح پولی ٹیکنک کالج",
+    "campus": "Main Faisalabad Campus",
+    "sinceYear": "1995",
+    "tagline": "SINCE 1995",
+    "affiliation": "Affiliated with Punjab Board of Technical Education (PBTE), Lahore",
+    "recognition": "Recognized by TEVTA (Technical Education & Vocational Training Authority) and NAVTTC",
+    "registrationNumber": "PBTE/REG/1995-FSD/402",
+    "logoUrl": "/uploads/1790081104250_images_jpg.jpg",
+    "principalName": "Engr. Sir Usman",
+    "principalTitle": "Principal & Chief Administrator",
+    "principalQualification": "M.Sc. Civil Engineering (UET), B.Sc. Civil Engg, FIE (Pak)",
+    "principalMessage": "Welcome to Jinnah Polytechnic Institute Faisalabad. Since our foundation in 1995, our mission has been to equip youth with cutting-edge technical craftsmanship, practical engineering skills, and moral discipline. Our state-of-the-art workshops, qualified engineers, and dedicated training prepare our diploma graduates to lead in national infrastructure, industrial manufacturing, power generation, and global technologies.",
+    "principalPhotoUrl": "/uploads/principal-usman.jpg",
+    "heroHeading": "Shaping Tomorrow’s Certified Engineers & Technical Leaders",
+    "heroSubheading": "Government Recognized 3-Year DAE (Diploma of Associate Engineering) programs with 100% hands-on laboratory workshops, industry apprenticeships, and direct job placement support.",
+    "heroBadge": "Admissions Open for Session 2024-2027 • PBTE Approved",
+    "aboutHeading": "A Legacy of Technical Mastery & Industrial Excellence",
+    "aboutText": "Jinnah Polytechnic Institute was established in 1995 with the vision of providing high-caliber technical education to the industrial hub of Faisalabad and across Pakistan. Over the last 30 years, JPC has graduated over 18,500 certified associate engineers who are now serving in prominent national institutions (WAPDA, CPEC Projects, NESPAK, FWO, Descon, Millat Tractors, Packages, Textile giants) and multinational organizations across the Middle East, Europe, and Asia.",
+    "historyText": "Starting with Civil and Electrical technologies in 1995, JPC has continually expanded to incorporate Mechanical Engineering, Computer Information Technology (CIT), Electronics, and modern CNC/Automation labs. Our campus spans across a multi-acre purpose-built facility equipped with specialized heavy machinery, modern computing centers, and hydraulic test benches.",
+    "visionText": "To be Pakistan’s premier institution for technical education, fostering innovation, engineering precision, and socio-economic empowerment through industry-tailored associate engineering diplomas.",
+    "missionText": "To deliver rigorous hands-on technical training, instilling professional ethics, engineering excellence, and problem-solving mindsets that empower our students to immediately succeed in industrial engineering sectors and higher education.",
+    "qualityPolicy": "We adhere strictly to PBTE academic standards and TEVTA quality metrics, ensuring regular curriculum upgrades, industrial advisory oversight, and continuous teacher proficiency enhancement.",
+    "accreditationDetails": "Fully accredited by PBTE (Punjab Board of Technical Education, Lahore). Registered with National Vocational and Technical Training Commission (NAVTTC) and Technical Education & Vocational Training Authority (TEVTA) Punjab.",
+    "emergencyNotice": "Admissions Open for DAE 1st Year (Civil, Electrical, Mechanical, CIT) - Limited Merit Seats Available!",
+    "emergencyNoticeActive": true,
+    "stats": {
+      "yearsOfExcellence": 30,
+      "graduatedStudents": 18500,
+      "modernLabs": 24,
+      "employmentRate": 94,
+      "qualifiedFaculty": 45
+    },
+    "sectionVisibility": {
+      "showEmergencyTicker": true,
+      "showStats": true,
+      "showPrincipalMessage": true,
+      "showDepartments": true,
+      "showNoticesMarquee": true,
+      "showFacilities": true,
+      "showEvents": true,
+      "showGallery": true,
+      "showVideos": true,
+      "showTestimonials": true,
+      "showMap": true
+    },
+    "announcementBarEnabled": true,
+    "announcementText": "Admission OPEN"
+  },
+  "principalProfile": {
+    "id": "global_principal_profile",
+    "name": "Engr. Sir Usman",
+    "photoUrl": "/uploads/principal-usman.jpg",
+    "designation": "Principal & Chief Administrator",
+    "qualification": "M.Sc. Civil Engineering (UET), B.Sc. Civil Engg, FIE (Pak)",
+    "department": "Engineering & Institutional Administration",
+    "experience": "28+ Years in Technical Education & Industrial Administration",
+    "joiningDate": "1995-09-01",
+    "biography": "Engr. Sir Usman is an eminent engineering scholar, educational visionary, and Principal Administrator of Jina Polytechnic College. Under his visionary leadership since 1995, the institute has transformed over 18,500 students into certified associate engineers across Pakistan and global industrial sectors.",
+    "about": "Jina Polytechnic College stands as a leading institute for technical education in Faisalabad. Our commitment is to deliver top-tier hands-on engineering training, modern lab exposure, and professional discipline.",
+    "vision": "To be Pakistan’s premier associate engineering institution, pioneering technical innovation, hands-on skill mastery, and socio-economic empowerment.",
+    "mission": "To equip youth with cutting-edge engineering skills, industrial apprenticeships, and problem-solving mindsets that empower our students to immediately succeed in industrial engineering sectors.",
+    "messageToStudents": "Dear Students, focus on your practical workshop exercises and daily technical training. Hard work, discipline, and engineering precision guarantee your career success.",
+    "messageToTeachers": "Respected Faculty Members, continue to mentor our students with dedication, updated lab experiments, and state-of-the-art technological standards.",
+    "isPublished": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2026-09-22T12:59:55.257Z"
+  },
+  "principalMessages": [
+    {
+      "id": "pmsg-01",
+      "title": "Welcome Message from the Desk of the Principal (Session 2024-2027)",
+      "messageBody": "Welcome to Jina Polytechnic College Faisalabad. Since our foundation in 1995, our mission has been to equip youth with cutting-edge technical craftsmanship, practical engineering skills, and moral discipline. Our state-of-the-art workshops, qualified engineers, and dedicated training prepare our diploma graduates to lead in national infrastructure, industrial manufacturing, power generation, and global technologies.",
+      "principalName": "Engr. Sir Usman",
+      "principalPhotoUrl": "/uploads/principal-usman.jpg",
+      "audienceType": "PUBLIC",
+      "priority": "Important",
+      "status": "PUBLISHED",
+      "isPublic": true,
+      "isPublished": true,
+      "publishedAt": "2026-09-22T12:59:55.257Z",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2026-09-22T12:59:55.257Z"
+    },
+    {
+      "id": "pmsg-02",
+      "title": "Mandatory Lab Workshop Orientation & Safety Guidelines for DAE Students",
+      "messageBody": "All 1st Year DAE students in Civil, Electrical, Mechanical, and CIT must wear safety boots, lab coats, and display identity badges during all laboratory practical sessions starting this Monday.",
+      "principalName": "Engr. Sir Usman",
+      "principalPhotoUrl": "/uploads/principal-usman.jpg",
+      "audienceType": "ALL_STUDENTS",
+      "priority": "Urgent",
+      "status": "PUBLISHED",
+      "isPublic": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-22T12:59:55.257Z",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2026-09-22T12:59:55.257Z"
+    },
+    {
+      "id": "pmsg-03",
+      "title": "Academic Faculty Advisory: Mid-Term Examination Evaluation & PBTE Submissions",
+      "messageBody": "Respected Faculty Members, please ensure mid-term answer sheets, attendance registers, and practical evaluation logs are submitted to the Examination Cell by Friday.",
+      "principalName": "Engr. Sir Usman",
+      "principalPhotoUrl": "/uploads/principal-usman.jpg",
+      "audienceType": "ALL_TEACHERS",
+      "priority": "High",
+      "status": "PUBLISHED",
+      "isPublic": false,
+      "isPublished": true,
+      "publishedAt": "2026-09-22T12:59:55.257Z",
+      "createdAt": "2024-01-20T00:00:00.000Z",
+      "updatedAt": "2026-09-22T12:59:55.257Z"
+    }
+  ],
+  "heroBanners": [
+    {
+      "id": "ban-01",
+      "title": "DAE Admissions Open Session 2024-2027",
+      "subtitle": "PBTE Affiliated 3-Year Associate Engineering Diplomas with Full Workshop Practicals",
+      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1600&q=80",
+      "ctaText": "Apply For Admission",
+      "ctaLink": "#apply-now",
+      "badge": "Government Recognized",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "ban-02",
+      "title": "Advanced Mechanical & Electrical Engineering Labs",
+      "subtitle": "Equipped with CNC Lathe, PLC Automation, Power Transformers & Hydraulic Test Benches",
+      "imageUrl": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=1600&q=80",
+      "ctaText": "Explore Technologies",
+      "ctaLink": "#departments",
+      "badge": "Modern Infrastructure",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "ban-03",
+      "title": "30+ Years of Engineering Legacy (Since 1995)",
+      "subtitle": "Join over 18,500 proud alumni working across global industries and top engineering universities",
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1600&q=80",
+      "ctaText": "Check Examination Results",
+      "ctaLink": "#results",
+      "badge": "100% Practical Training",
+      "active": true,
+      "order": 3
+    }
+  ],
+  "phoneNumbers": [],
+  "emailAddresses": [],
+  "contactInfo": {
+    "address": "Jinnah Polytechnic Institute Campus, Jaranwala Road / Canal Express Way Near Tech Plaza",
+    "city": "Faisalabad",
+    "province": "Punjab",
+    "postalCode": "38000",
+    "country": "Pakistan",
+    "mapEmbedUrl": "https://maps.google.com/maps?q=Faisalabad,Pakistan&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "openingHours": "Monday - Saturday: 08:00 AM - 04:00 PM (Friday: 08:00 AM - 12:30 PM)",
+    "helplineHours": "24/7 WhatsApp & SMS Support Available",
+    "whatsappNumber": "+923007654321",
+    "socialLinks": {
+      "facebook": "https://facebook.com/JinnahPolytechnicOfficial",
+      "youtube": "https://youtube.com/@JinnahPolytechnicOfficial",
+      "linkedin": "https://linkedin.com/company/jinnah-polytechnic",
+      "instagram": "https://instagram.com/jinnahpolytechnic",
+      "twitter": "https://twitter.com/jpc_faisalabad",
+      "whatsapp": "https://wa.me/923007654321"
+    }
+  },
+  "departments": [
+    {
+      "id": "dept-civ",
+      "code": "CIVIL",
+      "name": "Civil Engineering Technology",
+      "urduName": "سول انجینئرنگ ٹیکنالوجی",
+      "degreeType": "DAE",
+      "description": "Comprehensive practical training in surveying, structural drafting, concrete technology, hydraulics, building construction, highway design, and CAD civil estimation.",
+      "iconName": "Building2",
+      "headOfDepartment": "Engr. Tariq Jamil (M.Sc. Civil Engg)",
+      "establishedYear": "1995",
+      "totalLabs": 5,
+      "duration": "3 Years (6 Semesters)",
+      "image": "https://images.unsplash.com/photo-1541888946425-d0fbb180c5f7?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "totalSeats": 120,
+      "careerOpportunities": [
+        "Sub-Divisional Officer (SDO) / Sub-Engineer in C&W, WAPDA, Irrigation",
+        "Site Engineer in high-rise building & infrastructure projects",
+        "CAD Surveyor & Civil Estimator in NESPAK, FWO, NLC",
+        "International Construction Overseer in Gulf & Middle East"
+      ],
+      "keySubjects": [
+        "Civil Drafting & AutoCad",
+        "Surveying & Total Station Operation",
+        "Concrete Technology & Testing",
+        "Soil Mechanics & Foundation Engg",
+        "Public Health & Environmental Engg",
+        "Quantity Surveying & Estimation"
+      ]
+    },
+    {
+      "id": "dept-ele",
+      "code": "ELECTRICAL",
+      "name": "Electrical Engineering Technology",
+      "urduName": "الیکٹریکل انجینئرنگ ٹیکنالوجی",
+      "degreeType": "DAE",
+      "description": "Deep mastery of AC/DC machinery, industrial power distribution, switchgear protection, electrical wiring, PLC automation, and solar energy installations.",
+      "iconName": "Zap",
+      "headOfDepartment": "Engr. Kamran Asghar (B.Sc. Electrical Engg)",
+      "establishedYear": "1995",
+      "totalLabs": 6,
+      "duration": "3 Years (6 Semesters)",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "totalSeats": 120,
+      "careerOpportunities": [
+        "Electrical Sub-Engineer in FESCO, LESCO, GEPCO, WAPDA",
+        "Industrial Automation & PLC Technician in Textile Mills",
+        "Solar Power Plant Installation Engineer",
+        "Grid Station & Substation Maintenance Engineer"
+      ],
+      "keySubjects": [
+        "Electrical Circuits & Measurements",
+        "AC Machines & Transformers",
+        "Power Plant Engineering & Transmission",
+        "PLC & Industrial Automation",
+        "Solar Photovoltaic Systems",
+        "Substation & Switchgear Protection"
+      ]
+    },
+    {
+      "id": "dept-mec",
+      "code": "MECHANICAL",
+      "name": "Mechanical Engineering Technology",
+      "urduName": "مکینیکل انجینئرنگ ٹیکنالوجی",
+      "degreeType": "DAE",
+      "description": "Hands-on machining, CNC turning and milling, metallurgy, thermodynamics, boiler maintenance, refrigeration, CAD/SolidWorks design, and hydraulic power.",
+      "iconName": "Wrench",
+      "headOfDepartment": "Engr. Zafar Iqbal (B.Sc. Mechanical Engg)",
+      "establishedYear": "1998",
+      "totalLabs": 6,
+      "duration": "3 Years (6 Semesters)",
+      "image": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "totalSeats": 90,
+      "careerOpportunities": [
+        "Mechanical Sub-Engineer in Heavy Mechanical Complex (HMC)",
+        "Automotive & Tractor Assembly Engineer (Millat, Atlas Honda)",
+        "CNC Lathe & Milling Programmer",
+        "HVAC & Boiler Operations Supervisor"
+      ],
+      "keySubjects": [
+        "Workshop Technology & Machining Practice",
+        "Thermodynamics & Steam Boilers",
+        "Applied Mechanics & Strength of Materials",
+        "CNC Programming & CAD/CAM",
+        "Fluid Power & Hydraulics",
+        "Tool Design & Metallurgy"
+      ]
+    },
+    {
+      "id": "dept-cit",
+      "code": "CIT",
+      "name": "Computer Information Technology (CIT)",
+      "urduName": "کمپیوٹر انفارمیشن ٹیکنالوجی",
+      "degreeType": "DAE",
+      "description": "Modern diploma in software development, computer networking, web engineering, database architecture, cybersecurity, and hardware maintenance.",
+      "iconName": "Cpu",
+      "headOfDepartment": "Prof. Naveed Akram (M.S. Computer Science)",
+      "establishedYear": "2001",
+      "totalLabs": 4,
+      "duration": "3 Years (6 Semesters)",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+      "featured": true,
+      "totalSeats": 60,
+      "careerOpportunities": [
+        "Network Administrator (CCNA / MikroTik) in ISPs and Telecoms",
+        "Full Stack Web & Mobile App Developer",
+        "Database & Systems Support Officer in Banking / Corporate",
+        "Cybersecurity & IT Infrastructure Specialist"
+      ],
+      "keySubjects": [
+        "Programming Fundamentals & OOP (C++, Java, Python)",
+        "Database Management Systems (SQL)",
+        "Computer Hardware & Operating Systems",
+        "Data Communication & Computer Networks",
+        "Web Technologies & Web Applications",
+        "Information Security & Cloud Essentials"
+      ]
+    },
+    {
+      "id": "dept-elec",
+      "code": "ELECTRONICS",
+      "name": "Electronics Engineering Technology",
+      "urduName": "الیکٹرانکس انجینئرنگ ٹیکنالوجی",
+      "degreeType": "DAE",
+      "description": "Semiconductor devices, embedded microcontrollers, biomedical instrumentation, telecommunication systems, and modern digital signal electronics.",
+      "iconName": "Radio",
+      "headOfDepartment": "Engr. Shahbaz Ahmed (B.Sc. Electronics)",
+      "establishedYear": "2003",
+      "totalLabs": 3,
+      "duration": "3 Years (6 Semesters)",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80",
+      "featured": false,
+      "totalSeats": 60,
+      "careerOpportunities": [
+        "Telecom & Fiber Optics Engineer in PTCL, Jazz, Zong",
+        "Biomedical Equipment Technician in Hospitals",
+        "Embedded IoT System Developer"
+      ],
+      "keySubjects": [
+        "Basic & Digital Electronics",
+        "Microprocessors & Microcontrollers (Arduino, ARM)",
+        "Communication Systems & Wireless Networks",
+        "Industrial Instrumentation & Sensors"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": "crs-01",
+      "departmentId": "dept-civ",
+      "departmentName": "Civil Engineering Technology",
+      "title": "DAE in Civil Technology (PBTE Approved)",
+      "code": "DAE-CIV-100",
+      "degreeType": "DAE",
+      "durationYears": "3 Years",
+      "semestersCount": 6,
+      "eligibility": "Matriculation with Science (Physics, Chemistry, Math) with minimum 45% marks.",
+      "description": "Full 3-year associate engineering program focused on planning, building estimation, computerized drafting, highway construction, and site supervision.",
+      "feePerSemester": "Rs. 18,500 (Scholarships Available for Merit Students)",
+      "admissionOpen": true,
+      "syllabus": [
+        "Year 1: Applied Chemistry, Applied Physics, Applied Math-I, Civil Drafting-I, Surveying-I",
+        "Year 2: Applied Math-II, Civil Drafting-II, Surveying-II, Building Materials & Construction, Quantity Surveying",
+        "Year 3: Applied Math-III, Hydraulics & Irrigation, Concrete Technology, Highway & Bridges, Project Estimation"
+      ],
+      "practicalLabs": [
+        "Advanced Total Station & GPS Surveying Lab",
+        "Concrete Compression Testing & Soil Mechanics Lab",
+        "Computer Aided Civil Drafting (AutoCAD/Civil3D) Lab",
+        "Public Health & Fluid Mechanics Workshop"
+      ]
+    },
+    {
+      "id": "crs-02",
+      "departmentId": "dept-ele",
+      "departmentName": "Electrical Engineering Technology",
+      "title": "DAE in Electrical Technology (PBTE Approved)",
+      "code": "DAE-ELE-200",
+      "degreeType": "DAE",
+      "durationYears": "3 Years",
+      "semestersCount": 6,
+      "eligibility": "Matric with Science (Math, Physics, Chemistry) or TSC Certificate.",
+      "description": "Practical training covering power generation, transformer winding, industrial motor controllers, solar PV sizing, and micro-grid architecture.",
+      "feePerSemester": "Rs. 18,500 (Installment Options Available)",
+      "admissionOpen": true,
+      "syllabus": [
+        "Year 1: Basic Electrical Principles, Electronics-I, Applied Math-I, Workshop Practice (Wiring & Soldering)",
+        "Year 2: AC Circuits, DC Machines & Transformers, Electronics-II, Electrical Instruments & Measurements",
+        "Year 3: AC Machines, Power Plants & Transmission, Switchgear Protection, Industrial Electronics & PLC"
+      ],
+      "practicalLabs": [
+        "AC/DC Heavy Machinery & Motor Testing Lab",
+        "High Voltage & Transformer Testing Bay",
+        "PLC Automation & SCADA Simulator Center",
+        "Domestic & Industrial Wiring Workshop"
+      ]
+    },
+    {
+      "id": "crs-03",
+      "departmentId": "dept-mec",
+      "departmentName": "Mechanical Engineering Technology",
+      "title": "DAE in Mechanical Technology (PBTE Approved)",
+      "code": "DAE-MEC-300",
+      "degreeType": "DAE",
+      "durationYears": "3 Years",
+      "semestersCount": 6,
+      "eligibility": "Matriculation Science (Maths & Sciences)",
+      "description": "Precision machining, workshop practice, metallurgy, thermodynamics, boiler maintenance, and CNC manufacturing skills.",
+      "feePerSemester": "Rs. 18,500",
+      "admissionOpen": true,
+      "syllabus": [
+        "Year 1: Applied Mechanics, Engineering Drawing, Machine Shop Practice, Foundry & Welding Practice",
+        "Year 2: Metallurgy, Thermodynamics, Machine Design & Drafting, Heat Engines",
+        "Year 3: Fluid Mechanics, Hydraulics & Pneumatics, CNC Programming, Plant Maintenance & Safety"
+      ],
+      "practicalLabs": [
+        "CNC Lathe & CNC Milling Workshop",
+        "Arc, TIG/MIG Welding & Metal Fabrication Bay",
+        "Material Strength & Hardness Testing Lab",
+        "Refrigeration & Air Conditioning (RAC) Lab"
+      ]
+    },
+    {
+      "id": "crs-04",
+      "departmentId": "dept-cit",
+      "departmentName": "Computer Information Technology (CIT)",
+      "title": "DAE in Computer Information Technology",
+      "code": "DAE-CIT-400",
+      "degreeType": "DAE",
+      "durationYears": "3 Years",
+      "semestersCount": 6,
+      "eligibility": "Matric with Science or Computer Science (Min 45% marks)",
+      "description": "Full-stack programming, enterprise networking, Linux systems administration, cloud infrastructure, and database engineering.",
+      "feePerSemester": "Rs. 19,500",
+      "admissionOpen": true,
+      "syllabus": [
+        "Year 1: Computing Fundamentals, C++ Programming, Digital Logic Design, Electronics Fundamentals",
+        "Year 2: Data Structures, Web Development (HTML/CSS/JS/Node), Computer Networks & Routing (Cisco)",
+        "Year 3: Database Management Systems, Linux Administration, Information Security, Capstone Project"
+      ],
+      "practicalLabs": [
+        "Core i7 High-Speed Software Development Lab",
+        "Cisco Networking & Server Infrastructure Lab",
+        "Cybersecurity & Hardware Troubleshooting Room"
+      ]
+    }
+  ],
+  "teachers": [],
+  "students": [],
+  "results": [
+    {
+      "id": "res-01",
+      "studentId": "stu-01",
+      "rollNumber": "JPC-2024-CIV-101",
+      "registrationNumber": "PBTE-2024-FSD-90142",
+      "studentName": "Ali Raza",
+      "fatherName": "Muhammad Akram",
+      "examination": "PBTE DAE First Year 2nd Semester Annual Examination 2025",
+      "academicYear": "2024-2025",
+      "semester": "2nd Semester",
+      "department": "Civil Engineering Technology",
+      "technology": "DAE Civil Technology",
+      "subjects": [
+        {
+          "subjectCode": "GEN-111",
+          "subjectName": "Islamiat & Pakistan Studies",
+          "totalMarks": 50,
+          "obtainedMarks": 44,
+          "grade": "A+",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "MATH-113",
+          "subjectName": "Applied Mathematics-I",
+          "totalMarks": 100,
+          "obtainedMarks": 88,
+          "grade": "A+",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "PHY-122",
+          "subjectName": "Applied Physics",
+          "totalMarks": 100,
+          "obtainedMarks": 84,
+          "grade": "A",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "CH-112",
+          "subjectName": "Applied Chemistry",
+          "totalMarks": 100,
+          "obtainedMarks": 82,
+          "grade": "A",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "CIV-104",
+          "subjectName": "Civil Drafting & Surveying Practical",
+          "totalMarks": 150,
+          "obtainedMarks": 138,
+          "grade": "A+",
+          "status": "Pass"
+        }
+      ],
+      "totalMarks": 500,
+      "obtainedMarks": 436,
+      "percentage": 87.2,
+      "gpa": "3.88",
+      "overallGrade": "A+ (Distinction)",
+      "resultStatus": "Passed",
+      "issueDate": "2025-08-15",
+      "isPublished": true,
+      "remarks": "Excellent practical and theoretical performance."
+    },
+    {
+      "id": "res-02",
+      "studentId": "stu-02",
+      "rollNumber": "JPC-2024-ELE-202",
+      "registrationNumber": "PBTE-2024-FSD-90185",
+      "studentName": "Hamza Bilal",
+      "fatherName": "Bilal Ahmad",
+      "examination": "PBTE DAE First Year 2nd Semester Annual Examination 2025",
+      "academicYear": "2024-2025",
+      "semester": "2nd Semester",
+      "department": "Electrical Engineering Technology",
+      "technology": "DAE Electrical Technology",
+      "subjects": [
+        {
+          "subjectCode": "GEN-111",
+          "subjectName": "Islamiat & Pak Studies",
+          "totalMarks": 50,
+          "obtainedMarks": 42,
+          "grade": "A",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "MATH-113",
+          "subjectName": "Applied Mathematics-I",
+          "totalMarks": 100,
+          "obtainedMarks": 81,
+          "grade": "A",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "PHY-122",
+          "subjectName": "Applied Physics",
+          "totalMarks": 100,
+          "obtainedMarks": 79,
+          "grade": "B+",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "ET-115",
+          "subjectName": "Principles of Electrical Engineering",
+          "totalMarks": 150,
+          "obtainedMarks": 129,
+          "grade": "A",
+          "status": "Pass"
+        },
+        {
+          "subjectCode": "ET-121",
+          "subjectName": "Basic Electrical Wiring Lab Practice",
+          "totalMarks": 100,
+          "obtainedMarks": 91,
+          "grade": "A+",
+          "status": "Pass"
+        }
+      ],
+      "totalMarks": 500,
+      "obtainedMarks": 422,
+      "percentage": 84.4,
+      "gpa": "3.75",
+      "overallGrade": "A (First Division)",
+      "resultStatus": "Passed",
+      "issueDate": "2025-08-15",
+      "isPublished": true,
+      "remarks": "Cleared all theoretical and workshop modules."
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att-01",
+      "date": "2026-09-20",
+      "department": "Civil Engineering Technology",
+      "technology": "DAE Civil Technology",
+      "semester": "3rd Semester",
+      "subject": "Advanced Surveying & Total Station (CIV-203)",
+      "teacherId": "tea-01",
+      "teacherName": "Engr. Tariq Jamil",
+      "studentId": "stu-01",
+      "rollNumber": "JPC-2024-CIV-101",
+      "studentName": "Ali Raza",
+      "status": "Present"
+    },
+    {
+      "id": "att-02",
+      "date": "2026-09-21",
+      "department": "Civil Engineering Technology",
+      "technology": "DAE Civil Technology",
+      "semester": "3rd Semester",
+      "subject": "Advanced Surveying & Total Station (CIV-203)",
+      "teacherId": "tea-01",
+      "teacherName": "Engr. Tariq Jamil",
+      "studentId": "stu-01",
+      "rollNumber": "JPC-2024-CIV-101",
+      "studentName": "Ali Raza",
+      "status": "Present"
+    },
+    {
+      "id": "att-03",
+      "date": "2026-09-21",
+      "department": "Electrical Engineering Technology",
+      "technology": "DAE Electrical Technology",
+      "semester": "3rd Semester",
+      "subject": "AC Machines & Transformers (ET-213)",
+      "teacherId": "tea-02",
+      "teacherName": "Engr. Kamran Asghar",
+      "studentId": "stu-02",
+      "rollNumber": "JPC-2024-ELE-202",
+      "studentName": "Hamza Bilal",
+      "status": "Present"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt-01",
+      "title": "30th Annual Engineering Project & Robotics Exhibition 2026",
+      "category": "Exhibition",
+      "date": "2026-10-15",
+      "time": "09:30 AM - 04:00 PM",
+      "location": "JPC Main Auditorium & Heavy Machinery Hall",
+      "posterUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+      "photos": [
+        "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "Annual project showcase where final year students from Civil, Electrical, Mechanical, and CIT departments display innovative live engineering projects evaluated by industrial CEOs and PBTE chief engineers.",
+      "isPublished": true,
+      "targetAudience": "Public, Students, Industrial Representatives",
+      "featured": true
+    },
+    {
+      "id": "evt-02",
+      "title": "Industrial Automation & PLC Technical Workshop",
+      "category": "Workshops",
+      "date": "2026-10-02",
+      "time": "10:00 AM - 01:30 PM",
+      "location": "Siemens Automation Lab 3",
+      "posterUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
+      "photos": [],
+      "description": "Hands-on masterclass in SCADA integration, Siemens S7-1200 ladder logic, and industrial motor drives.",
+      "isPublished": true,
+      "targetAudience": "Electrical & Electronics Students",
+      "featured": true
+    },
+    {
+      "id": "evt-03",
+      "title": "Annual Sports Gala & Inter-Department Tournament",
+      "category": "Sports",
+      "date": "2026-11-10",
+      "time": "08:30 AM - 05:00 PM",
+      "location": "College Sports Grounds",
+      "posterUrl": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80",
+      "photos": [],
+      "description": "Cricket, Football, Badminton, Table Tennis, and Athletics competitions between departments.",
+      "isPublished": true,
+      "targetAudience": "All Students & Faculty",
+      "featured": false
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb-01",
+      "name": "Modern Laboratories & Workshops",
+      "category": "Laboratories",
+      "coverImageUrl": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=800&q=80",
+      "description": "Equipped with CNC machinery, high-voltage transformers, digital total stations, and modern test equipment.",
+      "date": "2026-09-01",
+      "isPublished": true,
+      "imagesCount": 3
+    },
+    {
+      "id": "alb-02",
+      "name": "Campus Infrastructure & Green Lawns",
+      "category": "Campus",
+      "coverImageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=800&q=80",
+      "description": "Purpose-built academic blocks, library, auditorium, and botanical walkways.",
+      "date": "2026-08-20",
+      "isPublished": true,
+      "imagesCount": 5
+    },
+    {
+      "id": "alb-03",
+      "name": "Technical Projects & Exhibitions",
+      "category": "Student Activities",
+      "coverImageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+      "description": "Civil structural models, automated robotics, and electrical smart grid projects by our students.",
+      "date": "2026-05-15",
+      "isPublished": true,
+      "imagesCount": 4
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": "img-01",
+      "albumId": "alb-01",
+      "albumName": "Modern Laboratories & Workshops",
+      "title": "CNC Lathe & Precision Milling Bay",
+      "caption": "Students practicing high-tolerance metal turning in the Mechanical Department.",
+      "altText": "Mechanical Engineering Workshop with Lathe Machinery",
+      "imageUrl": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-09-01",
+      "isPublished": true,
+      "displayOrder": 1
+    },
+    {
+      "id": "img-04",
+      "albumId": "alb-02",
+      "albumName": "Campus Infrastructure & Green Lawns",
+      "title": "Main Academic Block & Clock Tower",
+      "caption": "Spacious campus designed for theoretical learning and practical engineering.",
+      "altText": "JPC College Main Academic Block",
+      "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-08-20",
+      "isPublished": true,
+      "displayOrder": 1
+    },
+    {
+      "id": "img-05",
+      "albumId": "alb-02",
+      "albumName": "Campus Infrastructure & Green Lawns",
+      "title": "Central Engineering Library & Digital Archive",
+      "caption": "Over 15,000 engineering handbooks, PBTE past papers, and international technical journals.",
+      "altText": "Engineering Library at JPC",
+      "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=1000&q=80",
+      "date": "2026-08-20",
+      "isPublished": true,
+      "displayOrder": 2
+    },
+    {
+      "id": "img_1790079342588",
+      "albumId": "alb-01",
+      "albumName": "Modern Laboratories & Workshops",
+      "title": "Practical Heavy Machinery Operation",
+      "caption": "Students practicing on universal lathe testing bay",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790079397050_images_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 5
+    },
+    {
+      "id": "img_1790092379166",
+      "albumId": "alb-01",
+      "albumName": "",
+      "title": "",
+      "caption": "Students practicing on universal lathe testing bay",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790092428203_750055114_1497892128807332_7072214914723057776_n_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 6
+    },
+    {
+      "id": "img_1790092441190",
+      "albumId": "",
+      "albumName": "",
+      "title": "",
+      "caption": "Students practicing on universal lathe testing bay",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790092467482_751764941_1497892078807337_4873822583605600084_n_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 7
+    },
+    {
+      "id": "img_1790092482734",
+      "albumId": "",
+      "albumName": "",
+      "title": "",
+      "caption": "Students practicing on universal lathe testing bay",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790092501070_749681609_1497892025474009_4344907677843733139_n_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 8
+    },
+    {
+      "id": "img_1790092606078",
+      "albumId": "",
+      "albumName": "",
+      "title": "Practical",
+      "caption": "",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790092621708_752893635_1497891862140692_3423049384726282295_n_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 9
+    },
+    {
+      "id": "img_1790092643678",
+      "albumId": "",
+      "albumName": "",
+      "title": "",
+      "caption": "Students practicing on universal lathe testing bay",
+      "altText": "JPC Campus Photo",
+      "imageUrl": "/uploads/1790092658356_753169655_1497891732140705_9129016943658836877_n_jpg.jpg",
+      "date": "2026-09-22",
+      "isPublished": true,
+      "displayOrder": 9
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid-01",
+      "title": "JPC Campus Tour & 30 Years Journey Documentary (1995-2025)",
+      "category": "Campus Tour",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=800&q=80",
+      "description": "Explore the modern labs, machine workshops, faculty members, and student life at JPC Faisalabad.",
+      "duration": "6:45",
+      "isPublished": true,
+      "uploadDate": "2026-08-10"
+    },
+    {
+      "id": "vid-02",
+      "title": "Electrical Power Distribution & Substation Demonstration",
+      "category": "Lab Demonstrations",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "description": "Practical demonstration of relay testing and circuit breaker trip sequences in our power lab.",
+      "duration": "8:20",
+      "isPublished": true,
+      "uploadDate": "2026-07-25"
+    }
+  ],
+  "notices": [
+    {
+      "id": "not-01",
+      "title": "DAE 1st Year Admissions 2024-2027 Schedule & Fee Concession Criteria",
+      "category": "Admissions",
+      "content": "Admissions are now open for 3-Year DAE in Civil, Electrical, Mechanical, and CIT technologies. Merit scholarships are available for students securing 75%+ marks in Matric Science. Prospectus and admission forms are available at the admission counter.",
+      "date": "2026-09-18",
+      "expiryDate": "2026-10-31",
+      "priority": "Urgent_Marquee",
+      "targetAudience": "All",
+      "fileName": "Admission_Schedule_2024_2027.pdf",
+      "isPublished": true
+    },
+    {
+      "id": "not-02",
+      "title": "PBTE 2nd Annual Examination 2026 Form Submission Deadline",
+      "category": "Exams",
+      "content": "All students with supplementary or fresh examination entries must submit their PBTE examination admission forms along with original fee deposit slips by 5th October 2026 without late fee.",
+      "date": "2026-09-15",
+      "expiryDate": "2026-10-10",
+      "priority": "High",
+      "targetAudience": "Students",
+      "fileName": "PBTE_Exam_Circular_2026.pdf",
+      "isPublished": true
+    },
+    {
+      "id": "not-03",
+      "title": "Orientation Ceremony for Newly Enrolled 1st Year Diploma Students",
+      "category": "Academic",
+      "content": "The official orientation session and workshop safety guidelines briefing will be held on Monday at 09:00 AM in the Main College Auditorium. Uniform and ID cards are mandatory.",
+      "date": "2026-09-10",
+      "expiryDate": "2026-10-01",
+      "priority": "Normal",
+      "targetAudience": "Students",
+      "isPublished": true
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-01",
+      "title": "Official College Prospectus & Admission Guide",
+      "category": "Prospectus",
+      "description": "Complete curriculum outlines, rules, lab details, and fee schedules for all DAE diploma technologies.",
+      "fileUrl": "#download-prospectus",
+      "fileSize": "4.8 MB",
+      "uploadDate": "2026-09-01",
+      "isPublic": true,
+      "targetRole": "All"
+    },
+    {
+      "id": "doc-02",
+      "title": "DAE Admission Application Form (Printable)",
+      "category": "Admission",
+      "description": "Fillable admission registration form for session 2024-2027.",
+      "fileUrl": "#download-admission-form",
+      "fileSize": "1.2 MB",
+      "uploadDate": "2026-09-01",
+      "isPublic": true,
+      "targetRole": "All"
+    },
+    {
+      "id": "doc-03",
+      "title": "PBTE Academic Calendar & Examination Schedule",
+      "category": "Academic_Calendar",
+      "description": "Approved annual academic calendar detailing term exams, practical weeks, and gazetted holidays.",
+      "fileUrl": "#download-academic-calendar",
+      "fileSize": "850 KB",
+      "uploadDate": "2026-08-28",
+      "isPublic": true,
+      "targetRole": "All"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1790092663491-eb82",
+      "timestamp": "2026-09-22T15:57:43.491Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092658357-2roc",
+      "timestamp": "2026-09-22T15:57:38.357Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092658356_753169655_1497891732140705_9129016943658836877_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092641683-orvw",
+      "timestamp": "2026-09-22T15:57:21.683Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_DELETED",
+      "category": "Gallery",
+      "details": "Deleted gallery image ID: img_1790092506182",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092624984-y3a1",
+      "timestamp": "2026-09-22T15:57:04.984Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: Practical",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092621709-qvfq",
+      "timestamp": "2026-09-22T15:57:01.709Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092621708_752893635_1497891862140692_3423049384726282295_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092598055-u31h",
+      "timestamp": "2026-09-22T15:56:38.055Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_DELETED",
+      "category": "Gallery",
+      "details": "Deleted gallery image ID: img-02",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092588899-vxz8",
+      "timestamp": "2026-09-22T15:56:28.899Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_DELETED",
+      "category": "Gallery",
+      "details": "Deleted gallery image ID: img_1790092528926",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092582288-vcat",
+      "timestamp": "2026-09-22T15:56:22.288Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092547074-58c9",
+      "timestamp": "2026-09-22T15:55:47.074Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092547073_752893635_1497891862140692_3423049384726282295_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092524964-y5yh",
+      "timestamp": "2026-09-22T15:55:24.964Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092523348-h2mt",
+      "timestamp": "2026-09-22T15:55:23.348Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092523347_752854690_1497891928807352_6251112244548659280_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092503157-k312",
+      "timestamp": "2026-09-22T15:55:03.157Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092501071-f9ri",
+      "timestamp": "2026-09-22T15:55:01.071Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092501070_749681609_1497892025474009_4344907677843733139_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092470696-s261",
+      "timestamp": "2026-09-22T15:54:30.696Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092467482-a406",
+      "timestamp": "2026-09-22T15:54:27.482Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092467482_751764941_1497892078807337_4873822583605600084_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092433180-r6o7",
+      "timestamp": "2026-09-22T15:53:53.180Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: ",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790092428204-efmf",
+      "timestamp": "2026-09-22T15:53:48.204Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790092428203_750055114_1497892128807332_7072214914723057776_n_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790087499007-m4cg",
+      "timestamp": "2026-09-22T14:31:39.007Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790087214636-kxlk",
+      "timestamp": "2026-09-22T14:26:54.636Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790087214635_images__1__jpg.jpg (image/jpeg) for category: Principal Photo",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790083217499-7w6u",
+      "timestamp": "2026-09-22T13:20:17.499Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "ADMIN_GOOGLE_LOGIN",
+      "category": "Authentication",
+      "details": "Super Admin logged in via Google OAuth",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790082100185-dqk0",
+      "timestamp": "2026-09-22T13:01:40.185Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790082097164-oqrz",
+      "timestamp": "2026-09-22T13:01:37.164Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790082094535-zx7g",
+      "timestamp": "2026-09-22T13:01:34.535Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790082094534_images__1__jpg.jpg (image/jpeg) for category: Leadership",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790081679860-b5lo",
+      "timestamp": "2026-09-22T12:54:39.860Z",
+      "actorId": "public",
+      "actorName": "Ashiq Ali",
+      "actorRole": "VISITOR",
+      "action": "INQUIRY_SUBMITTED",
+      "category": "Public Contact",
+      "details": "New inquiry from Ashiq Ali (03057420406)",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790081178952-ny1e",
+      "timestamp": "2026-09-22T12:46:18.952Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790081114661-xnym",
+      "timestamp": "2026-09-22T12:45:14.661Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790081108852-laxw",
+      "timestamp": "2026-09-22T12:45:08.852Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790081104250-9561",
+      "timestamp": "2026-09-22T12:45:04.250Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790081104250_images_jpg.jpg (image/jpeg) for category: Branding",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080811083-8ong",
+      "timestamp": "2026-09-22T12:40:11.083Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080754927-wbev",
+      "timestamp": "2026-09-22T12:39:14.927Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790080754927_images__1__jpg.jpg (image/jpeg) for category: Leadership",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080580026-phw2",
+      "timestamp": "2026-09-22T12:36:20.026Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "STUDENT_DELETED",
+      "category": "Students",
+      "details": "Deleted student: JPC-2024-CIT-404",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080576075-2e5h",
+      "timestamp": "2026-09-22T12:36:16.075Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "STUDENT_DELETED",
+      "category": "Students",
+      "details": "Deleted student: JPC-2023-MEC-303",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080527282-hs0t",
+      "timestamp": "2026-09-22T12:35:27.282Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "SETTINGS_UPDATED",
+      "category": "College Settings",
+      "details": "Super Admin updated college branding, logo, or public settings.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080470226-nqit",
+      "timestamp": "2026-09-22T12:34:30.226Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "PHONE_DELETED",
+      "category": "Phone Numbers",
+      "details": "Deleted phone: +92 41 8765435",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080465989-ilnb",
+      "timestamp": "2026-09-22T12:34:25.989Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "PHONE_DELETED",
+      "category": "Phone Numbers",
+      "details": "Deleted phone: +92 300 7654321",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080462688-2hx6",
+      "timestamp": "2026-09-22T12:34:22.688Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "PHONE_DELETED",
+      "category": "Phone Numbers",
+      "details": "Deleted phone: +92 41 8765430",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080457849-l9rm",
+      "timestamp": "2026-09-22T12:34:17.849Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "PHONE_DELETED",
+      "category": "Phone Numbers",
+      "details": "Deleted phone: +92 41 8765432",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080454607-7o47",
+      "timestamp": "2026-09-22T12:34:14.607Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "EMAIL_DELETED",
+      "category": "Email Management",
+      "details": "Deleted email: exams@jinnahpolytechnic.edu.pk",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080448713-jhi6",
+      "timestamp": "2026-09-22T12:34:08.713Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "EMAIL_DELETED",
+      "category": "Email Management",
+      "details": "Deleted email: admissions@jinnahpolytechnic.edu.pk",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790080444131-xly6",
+      "timestamp": "2026-09-22T12:34:04.131Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "EMAIL_DELETED",
+      "category": "Email Management",
+      "details": "Deleted email: info@jinnahpolytechnic.edu.pk",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079846902-oa8b",
+      "timestamp": "2026-09-22T12:24:06.902Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "ADMIN_GOOGLE_LOGIN",
+      "category": "Authentication",
+      "details": "Super Admin logged in via Google OAuth",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079834037-1l9v",
+      "timestamp": "2026-09-22T12:23:54.037Z",
+      "actorId": "system",
+      "actorName": "Unknown User",
+      "actorRole": "VISITOR",
+      "action": "CLAIM_ADMIN_REJECTED",
+      "category": "Security",
+      "details": "Attempted to claim already claimed Super Admin",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079830405-eqnb",
+      "timestamp": "2026-09-22T12:23:50.405Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "ADMIN_GOOGLE_LOGIN",
+      "category": "Authentication",
+      "details": "Super Admin logged in via Google OAuth",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079826579-bfwt",
+      "timestamp": "2026-09-22T12:23:46.579Z",
+      "actorId": "system",
+      "actorName": "Unauthorized User",
+      "actorRole": "VISITOR",
+      "action": "ADMIN_ACCESS_DENIED",
+      "category": "Security",
+      "details": "Unauthorized Google account attempted Super Admin access",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079575642-od0m",
+      "timestamp": "2026-09-22T12:19:35.642Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "STUDENT_DELETED",
+      "category": "Students",
+      "details": "Deleted student: JPC-2024-CIV-101",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079572176-dipa",
+      "timestamp": "2026-09-22T12:19:32.176Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "STUDENT_DELETED",
+      "category": "Students",
+      "details": "Deleted student: JPC-2024-ELE-202",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079562668-1xkz",
+      "timestamp": "2026-09-22T12:19:22.668Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "TEACHER_DELETED",
+      "category": "Faculty",
+      "details": "Deleted faculty: Engr. Kamran Asghar",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079559126-fota",
+      "timestamp": "2026-09-22T12:19:19.126Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "TEACHER_DELETED",
+      "category": "Faculty",
+      "details": "Deleted faculty: Engr. Zafar Iqbal",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079555233-hf4l",
+      "timestamp": "2026-09-22T12:19:15.233Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "TEACHER_DELETED",
+      "category": "Faculty",
+      "details": "Deleted faculty: Engr. Muhammad Tariq Jamil",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079551579-b9if",
+      "timestamp": "2026-09-22T12:19:11.579Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "TEACHER_DELETED",
+      "category": "Faculty",
+      "details": "Deleted faculty: Prof. Naveed Akram",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079405560-idgb",
+      "timestamp": "2026-09-22T12:16:45.560Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_ADDED",
+      "category": "Gallery",
+      "details": "Added image: Practical Heavy Machinery Operation",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079397050-wmb0",
+      "timestamp": "2026-09-22T12:16:37.050Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790079397050_images_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079384165-l899",
+      "timestamp": "2026-09-22T12:16:24.165Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790079384164_chatgpt_image_sep_21__2026__11_53_22_pm_png.png (image/png) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079363282-eqdh",
+      "timestamp": "2026-09-22T12:16:03.282Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790079363280_chatgpt_image_sep_21__2026__11_53_22_pm_png.png (image/png) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079348917-pz38",
+      "timestamp": "2026-09-22T12:15:48.917Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "MEDIA_UPLOADED",
+      "category": "Media Storage",
+      "details": "Uploaded file: 1790079348917_images_jpg.jpg (image/jpeg) for category: gallery_image",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079327452-oc08",
+      "timestamp": "2026-09-22T12:15:27.452Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "IMAGE_DELETED",
+      "category": "Gallery",
+      "details": "Deleted gallery image ID: img-03",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790079289012-p0q5",
+      "timestamp": "2026-09-22T12:14:49.012Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "ADMIN_GOOGLE_LOGIN",
+      "category": "Authentication",
+      "details": "Super Admin logged in via Google OAuth (ashiqali133456@gmail.com)",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790075373142-twm5",
+      "timestamp": "2026-09-22T11:09:33.142Z",
+      "actorId": "usr-admin-01",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "2FA_SUCCESS",
+      "category": "Security",
+      "details": "Super Admin passed 2FA verification.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-1790075184422-1gvj",
+      "timestamp": "2026-09-22T11:06:24.422Z",
+      "actorId": "usr-admin-00",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "ADMIN_GOOGLE_LOGIN",
+      "category": "Authentication",
+      "details": "Super Admin logged in via Google OAuth (ashiqali133456@gmail.com)",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-01",
+      "timestamp": "2026-09-21T10:00:00.000Z",
+      "actorId": "usr-admin-01",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "COLLEGE_SETTINGS_UPDATED",
+      "category": "Branding & Settings",
+      "details": "Updated admissions urgent ticker and verified PBTE accreditation status.",
+      "ipAddress": "127.0.0.1"
+    },
+    {
+      "id": "aud-02",
+      "timestamp": "2026-09-20T14:30:00.000Z",
+      "actorId": "usr-admin-01",
+      "actorName": "Super Administrator",
+      "actorRole": "SUPER_ADMIN",
+      "action": "RESULTS_PUBLISHED",
+      "category": "Examination Results",
+      "details": "Published PBTE DAE 2nd Semester Annual Examination results for session 2024-2027.",
+      "ipAddress": "127.0.0.1"
+    }
+  ],
+  "inquiries": [],
+  "securitySettings": {
+    "twoFactorRequiredForAdmin": true,
+    "sessionTimeoutMinutes": 60,
+    "maxLoginAttempts": 5,
+    "lastPasswordChangedDate": "2026-09-01",
+    "adminTwoFactorPinSet": true
+  }
+}
